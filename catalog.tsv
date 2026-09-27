@@ -1,0 +1,28 @@
+category	name	source	identifier	tap
+research	Obsidian	cask	obsidian	-
+research	Zotero	cask	zotero	-
+research	Anki	cask	anki	-
+research	MIQ	cask	miq	-
+research	ITK-SNAP	cask	itk-snap	-
+research	3D Slicer	cask	slicer	-
+development	Visual Studio Code	cask	visual-studio-code	-
+development	GitHub Desktop	cask	github	-
+development	Ghostty	cask	ghostty	-
+development	Docker Desktop	cask	docker-desktop	-
+utilities	Tinycast	cask	abue-ammar/tinycast/tinycast	abue-ammar/tinycast
+utilities	DockDoor	cask	dockdoor	-
+utilities	OpenClip	cask	openclip	-
+utilities	Stats	cask	stats	-
+utilities	Shottr	cask	shottr	-
+utilities	Hidden Bar	cask	hiddenbar	-
+utilities	f.lux	cask	flux-app	-
+utilities	BetterDisplay	cask	betterdisplay	-
+utilities	Karabiner-Elements	cask	karabiner-elements	-
+utilities	Alcove	cask	alcove	-
+utilities	Antinote	cask	antinote	-
+utilities	CleanMyMac 5	cask	cleanmymac	-
+utilities	superwhisper	cask	superwhisper	-
+utilities	Tailscale	cask	tailscale-app	-
+utilities	TeamViewer	cask	teamviewer	-
+utilities	Logitech Options+	cask	logi-options+	-
+utilities	Pure Paste	mas	1611378436	-
